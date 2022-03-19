@@ -1,0 +1,22 @@
+{
+  "name": "bithumb_openwebsocketapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyeon-kwon/bithumb_openwebsocketAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyeon-kwon/bithumb_openwebsocketAPI/issues"
+  },
+  "homepage": "https://github.com/oyeon-kwon/bithumb_openwebsocketAPI#readme",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
